@@ -1,0 +1,33 @@
+_repo: The-Philosophy-of-Health-Volume-2-of-2-or-an-exposition-of-the-physical-and-mental-constituti__60937
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Southwood
+    aliases:
+    - Smith, T. S. (Thomas Southwood)
+    - Smith, S. (Southwood)
+    - Southwood-Smith, Thomas
+    - Smith, Thomas Southwood
+    birthdate: 1788
+    deathdate: 1861
+    gutenberg_agent_id: '49968'
+    url: http://www.gutenberg.org/2009/agents/49968
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Southwood_Smith
+description: ''
+gutenberg_issued: '2019-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physiology'
+- !lcc 'QP'
+- !lcsh 'Hygiene'
+- !lcc 'RA'
+- GITenberg
+title: "The Philosophy of Health; Volume 2 (of 2)\r\nor, an exposition of the physical\
+  \ and mental constitution of man"
+url: http://www.gutenberg.org/ebooks/60937
